@@ -1,0 +1,8 @@
+class uberprice {
+    constructor(chennai,thiruvallur) {
+        this.chennai =chennai;
+        this.thiruvallur =thiruvallur;
+    }
+}
+
+var a =new uberprice(570,520);
